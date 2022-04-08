@@ -1,0 +1,15 @@
+* {
+	scroll-behavior: smooth;
+	box-sizing: border-box;
+	font-family: "Montserrat", "Open Sans", sans-serif;
+}
+
+dt a {
+	font-family: "Open Sans";
+	text-decoration: none;
+	color: rgb(46, 117, 140);
+}
+
+dt a:hover {
+	color: rgb(62, 174, 211);
+}
